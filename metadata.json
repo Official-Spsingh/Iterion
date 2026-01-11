@@ -1,0 +1,8 @@
+{
+  "name": "Iterion",
+  "description": "An enterprise-grade Agile project management suite following the Epic-Story-Task hierarchy with real-time resource tracking and AI-driven sprint insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
